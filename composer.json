@@ -1,5 +1,5 @@
 {
-    "name": "mvdnbrk/laravel-model-expires",
+    "name": "tugapackages/laravel-model-expires",
     "description": "A package to assign expiration dates to Eloquent models",
     "keywords": [
         "laravel",
@@ -11,7 +11,7 @@
         "expiration",
         "expirable"
     ],
-    "homepage": "https://github.com/mvdnbrk/laravel-model-expires",
+    "homepage": "https://github.com/tugapackages/laravel-model-expires",
     "license": "MIT",
     "authors": [
         {
@@ -21,9 +21,9 @@
         }
     ],
     "require": {
-        "php": "^7.2 || ^8.0",
-        "illuminate/support": "^6.0 || ^7.0 || ^8.0",
-        "illuminate/database": "^6.0 || ^7.0 || ^8.0"
+        "php": "^7.2 || ^8.1",
+        "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0",
+        "illuminate/database": "^6.0 || ^7.0 || ^8.0 || ^9.0"
     },
     "require-dev": {
         "doctrine/dbal": "^2.10",
